@@ -19,10 +19,15 @@
 
 ---
 
-## 👨 About
+## About 👨
 
 > Brief description about the repository
 
 This repository contains an API that was created during LinkedIn's Express Essential Training course :sunglasses:
 
 
+## License 📄
+
+> Here you can find the license that regulates this repository
+
+The related rights, as well as their rules and regulations for using this project, can be found **[HERE](https://github.com/yurijserrano/Express-Essential-Training-API/blob/master/LICENSE.md)**
