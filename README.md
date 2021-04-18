@@ -13,6 +13,7 @@
   <a target="_blank" href="#-about"><img src="https://img.shields.io/badge/ABOUT-green?style=for-the-badge&color=#0095B7" /></a>&nbsp;
   <a target="_blank" href="#-pics"><img src="https://img.shields.io/badge/PICS-green?style=for-the-badge&color=2196F3" /></a>&nbsp;
   <a target="\_blank"href="#-packages"><img src="https://img.shields.io/badge/PACKAGES-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
+  <a target="_blank" href="#-certificate"><img src="https://img.shields.io/badge/CERTIFICATE-orange?style=for-the-badge&color=4CAF50" /></a>&nbsp;
   <a target="_blank" href="https://github.com/yurijserrano/Express-Essential-Training-API/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
 </p>
 
@@ -20,6 +21,7 @@
   <a href="#-about">About</a> •
   <a href="#-pics">Pics</a> •
   <a href="#-packages">Packages</a> •
+  <a href="#-certificate">Certificate</a> •
   <a href="#-license">License</a>
 </p>
 
@@ -61,6 +63,16 @@ This repository contains an API that was created during LinkedIn's Express Essen
 - [BABEL-CLI](https://www.npmjs.com/package/babel-cli)
 - [BABEL-PRESET-ENV](https://www.npmjs.com/package/babel-preset-env)
 - [BABEL-PRESET-STAGE-0](https://www.npmjs.com/package/babel-preset-stage-0)
+
+<br/>
+
+## 🧾 Certificate
+
+> Here you will find the certificate of the course completion
+
+<p align="center">
+	<a target="_blank" href="https://github.com/yurijserrano/Express-Essential-Training-API"><img src="https://raw.githubusercontent.com/yurijserrano/Express-Essential-Training-API/master/certificate.png" alt="CERTIFICATE" /></a>
+</p>
 
 <br/>
 
