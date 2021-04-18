@@ -31,6 +31,7 @@
 
 This repository contains an API that was created during LinkedIn's Express Essential Training course :sunglasses:
 
+<br/>
 
 ## 📷 Pics
 
@@ -48,6 +49,7 @@ This repository contains an API that was created during LinkedIn's Express Essen
 	<a target="_blank" href="https://github.com/yurijserrano/Express-Essential-Training-API"><img src="https://raw.githubusercontent.com/yurijserrano/Express-Essential-Training-API/master/api02.png" alt="IMAGE API II" /></a>
 </p>
 
+<br/>
 
 ## 📦 Packages
 
@@ -60,6 +62,7 @@ This repository contains an API that was created during LinkedIn's Express Essen
 - [BABEL-PRESET-ENV](https://www.npmjs.com/package/babel-preset-env)
 - [BABEL-PRESET-STAGE-0](https://www.npmjs.com/package/babel-preset-stage-0)
 
+<br/>
 
 ## 📄 License
 
