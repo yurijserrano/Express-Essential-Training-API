@@ -1,5 +1,5 @@
 <p align="center">
-	<a target="_blank" href="https://github.com/yurijserrano/Pokedex"><img src="https://raw.githubusercontent.com/yurijserrano/Pokedex/4abb8d82e0c59ada3813fb399c1689603e9652d0/Logo/javascript.svg" width="400" height="400" alt="Javascript" /></a>
+	<a target="_blank" href="https://github.com/yurijserrano/Express-Essential-Training-API"><img src="https://raw.githubusercontent.com/yurijserrano/Pokedex/4abb8d82e0c59ada3813fb399c1689603e9652d0/Logo/javascript.svg" width="400" height="400" alt="Javascript" /></a>
 </p>
 
 > This repository contains an API that was created during LinkedIn's Express Essential Training course :sunglasses:
@@ -13,7 +13,7 @@
   <a target="_blank" href="#-about"><img src="https://img.shields.io/badge/ABOUT-green?style=for-the-badge&color=#0095B7" /></a>&nbsp;
   <a target="_blank" href="#-pics"><img src="https://img.shields.io/badge/PICS-green?style=for-the-badge&color=2196F3" /></a>&nbsp;
   <a target="\_blank"href="#-packages"><img src="https://img.shields.io/badge/PACKAGES-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
-  <a target="_blank" href="https://github.com/yurijserrano/Pokedex/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
+  <a target="_blank" href="https://github.com/yurijserrano/Express-Essential-Training-API/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
 </p>
 
 <p align="center">
