@@ -10,13 +10,13 @@
 
 
 <p align="center">
-  <a target="_blank" href="#about"><img src="https://img.shields.io/badge/ABOUT-green?style=for-the-badge&color=#0095B7" /></a>
+  <a target="_blank" href="#-about"><img src="https://img.shields.io/badge/ABOUT-green?style=for-the-badge&color=#0095B7" /></a>
   <a target="_blank" href="https://github.com/yurijserrano/Pokedex/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/LICENSE-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
 </p>
 
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#license">License</a>
+  <a href="#-about">About</a> •
+  <a href="#-license">License</a>
 </p>
 
 ---
